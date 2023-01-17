@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/teal_200"
+    tools:context=".Home">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Andrew James Clutterbuck
+
+known professionally as Andrew Lincoln, is an English
+actor. His first major role was as the character Egg
+in the BBC drama This Life. Lincoln later portrayed Simon
+Casey in the Channel 4 sitcom Teachers,Mark in the
+Christmas-themed romantic comedy film Love Actually and
+Dr. Robert Bridge in the ITV television series Afterlife
+Beginning in 2010, Lincoln gained recognition for his
+portrayal of Rick Grimes, the lead character on the AMC
+post-apocalyptic horror television series The Walking Dead."
+        android:textSize="26dp" />
+
+</FrameLayout>

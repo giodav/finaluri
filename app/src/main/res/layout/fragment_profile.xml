@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_200"
+    tools:context=".Profile">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Samuel Henry John Worthington
+
+is an Australian actor. He is best known for playing
+Jake Sully in the Avatar franchise, Marcus Wright in
+Terminator Salvation, and Perseus in Clash of the
+Titans and its sequel Wrath of the Titans. He has
+taken more dramatic roles, appearing in The Debt,
+Everest, Hacksaw Ridge, The Shack, Manhunt: Unabomber
+and Fractured"
+        android:textSize="26dp"
+        android:layout_gravity="center"/>
+
+</FrameLayout>
